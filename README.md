@@ -36,7 +36,7 @@ It demonstrates shopping cart management, accurate price calculations, customer 
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/harshalaaaaa/mini-checkout-playwright.git
 ```
 
 Navigate into the project:
